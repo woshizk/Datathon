@@ -1,0 +1,10 @@
+location_id,borough,zone,service_zone,nta_code
+1,EWR,Newark Airport,EWR,NJ01
+2,Queens,Jamaica Bay,Boro Zone,QN61
+3,Bronx,Allerton/Pelham Gardens,Boro Zone,BX31
+4,Manhattan,Alphabet City,Yellow Zone,MN22
+5,Staten Island,Arden Heights,Boro Zone,SI48
+6,Staten Island,Arrochar/Fort Wadsworth,Boro Zone,SI14
+7,Queens,Astoria,Boro Zone,QN70
+8,Queens,Astoria Park,Boro Zone,QN70
+9,Queens,Auburndale,Boro Zone,QN48
