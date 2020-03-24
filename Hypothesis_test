@@ -1,0 +1,17 @@
+In order to increase understanding of how developments in the bike share infrastructure of metropolitan cities (e.g. NYC, Boston, SF) relate to broader trends in the public and private transportation industries. 
+
+
+1. bikeshare has different usage for gender
+    1. Male use more in general
+2. Time duration
+    1. short, med, long term ( 25% quantile. med, 75 quantile) male/female 
+    2. workday/ weekend male/female 
+        1. workday: rushing hour 8-9:30, 5:30-6:00pm
+        2. weekends: morning, afternoon, evening
+    3. holiday 
+3. usertype
+    1. subscribers & customers
+4. birthyear
+    1. tennager (15-20, 20 - 30, senior people
+
+time series analysis: how all the trend evolve 13 - 19 (7 years)
